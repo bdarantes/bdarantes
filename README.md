@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá, eu me chamo Braz 👋
 
+Tenho formação de Licenciatura em Matemática e atualmente sou estudante de Engenharia de Software.
+Apesar da minha formação anterior sempre estive muito ligado ao mundo da tecnologia atuando como professor de informática básica, o que me gerou curiosidade em me aprofundar nesta área.
+Meu foco é o desenvolvimento back-end com Java e Spring Boot. Ao longo da minha jornada, adquiri conhecimentos sólidos em lógica de programação, orientação a objetos, boas práticas para um código limpo, organização em camadas e uso de ferramentas como o Postman.
+Trabalho em ambiente Linux, o que fortaleceu minha familiaridade com o terminal, scripts, configuração de ambiente de desenvolvimento e utilização de ferramentas voltadas à produtividade e ao desenvolvimento de software.
+
+Atualmente, estou me aprofundando em bancos de dados relacionais e não relacionais, além de estudar segurança em aplicações web. Paralelamente, tenho explorado o desenvolvimento front-end com o objetivo de construir aplicações completas, do back-end ao front-end.
+
+Já estudei Python e, atualmente, estou focando em JavaScript, paralelamente aos meus estudos contínuos com Java. Desenvolvi projetos simples com Node.js, aplicando conceitos semelhantes aos que aprendi em Java, como modularização, rotas e organização em serviços.
 <!--
 **bdarantes/bdarantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
