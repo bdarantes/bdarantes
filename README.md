@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Braz 👋
 
-Tenho formação de Licenciatura em Matemática e atualmente sou estudante de Engenharia de Software.
+Tenho como formação acadêmica Licenciatura em Matemática e atualmente sou estudante de Engenharia de Software.
 Apesar da minha formação anterior sempre estive muito ligado ao mundo da tecnologia atuando como professor de informática básica, o que me gerou curiosidade em me aprofundar nesta área.
 
 Meu foco é o desenvolvimento back-end com Java e Spring Boot. Ao longo da minha jornada, adquiri conhecimentos sólidos em lógica de programação, orientação a objetos, boas práticas para um código limpo, organização em camadas e uso de ferramentas como o Postman.
